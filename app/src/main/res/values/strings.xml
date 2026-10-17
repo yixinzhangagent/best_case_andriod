@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gemini 4 开发者与学院</string>
+    <string name="portal_subtitle">Google Gemini 4 全景生态门户 · 超越 Claude 全系基准</string>
+    <string name="search_placeholder">搜索文档、API、课程、资讯、提示词或对比基准…</string>
+    <string name="tab_dev">开发者文档</string>
+    <string name="tab_news">官方动态</string>
+    <string name="tab_resources">资源中心</string>
+    <string name="tab_academy">Gemini 学院</string>
+    <string name="tab_use_cases">使用案例</string>
+    <string name="action_run_sandbox">在线运行 Gemini 4 沙盒</string>
+    <string name="action_copy_code">复制代码</string>
+    <string name="action_copied">已复制到剪贴板</string>
+    <string name="action_compare_claude">查看 vs Claude 4 深度对比</string>
+    <string name="security_warning_prototype">原型沙盒提示：当前通过 BuildConfig 调用 REST API 演示，生产环境请使用 Firebase App Check 保护密钥。</string>
+</resources>

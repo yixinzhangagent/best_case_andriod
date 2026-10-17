@@ -1,0 +1,6 @@
+{
+  "name": "Gemini 4 开发者与学院",
+  "description": "对标并全面超越 Claude 生态的 Google Gemini 4 全景中文门户：涵盖 Gemini4.dev 开发者文档、Gemini4.news 官方资讯、Academy 学院课程、Resources 资源中心与 Use Cases 实战案例库，支持在线 API 沙盒测试与对比。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
